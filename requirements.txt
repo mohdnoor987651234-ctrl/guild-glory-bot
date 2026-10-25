@@ -1,4 +1,7 @@
 python-telegram-bot
 requests
+httpx
 cfonts
 pycryptodome
+google-play-scraper
+protobuf-decoder
